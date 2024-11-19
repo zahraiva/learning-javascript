@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    margin-top: 30%;
+}
+
+#button {
+    font-size: 3em;
+    color: rgb(1, 63, 22);
+    background-color: beige;
+    border-radius: 7px;
+    transition: background-color 0.25s;
+}
+#button:hover {
+    background-color: rgb(227, 230, 182);
+}
+#rnum {
+    font-size: 4em;
+    font-family: sans-serif;
+    color:rgb(1, 63, 22)
+}
+
+p {
+    font-family: sans;
+    color: darkslategray;
+    font-weight: bold;
+}
